@@ -1,0 +1,46 @@
+[{
+	"question": "BOD is an important measure of _______________ ",
+	"answers": {
+		"a": "A measure of the biological activity of water and waste water",
+		"b": "An organism's natural level of oxygen requirements",
+		"c": "Oxygen content of water and waste water",
+		"d": "The oxygen using potential of water and waste water"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What is the temperature required during the incubation period?",
+	"answers": {
+		"a": "20&deg;C",
+		"b": "15&deg;C",
+		"c": "25&deg;C",
+		"d": "30&deg;C"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Nitrification Inhibitor used in determination of BOD _________________ ",
+	"answers": {
+		"a": "Dicyandiamide",
+		"b": "Ammonium thiosulfate",
+		"c": "2-chloro-6 ( trichloromethyl ) pyridine (TCMP)",
+		"d": "Nitropyrene"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "A river water has a BOD level of 12mg/l, then the water is ",
+	"answers": {
+		"a": "Less polluted",
+		"b": "Highly polluted",
+		"c": "Not polluted",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Samples bottles are completely filled up to the neck. Why?",
+	"answers": {
+		"a": "To avoid mixing of air bubbles with the sample",
+		"b": "To maintain the temperature of sample",
+		"c": "To protect it from sunlight",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}]
