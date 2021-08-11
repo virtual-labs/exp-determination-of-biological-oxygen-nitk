@@ -146,14 +146,14 @@ html
 @-webkit-keyframes waterUp
 {
 	from {left:230px; top:410px;}
-	to {left:230px; top:300.5px;}
+	to {left:230px; top:337px;}
 }
 
 /* Standard syntax */
 @keyframes waterUp 
 {
 	from {left:230px; top:410px;}
-	to {left:230px; top:300.5px;}
+	to {left:230px; top:337px;}
 }
 
 /* fotate sample2 */
@@ -376,27 +376,27 @@ html
 @-webkit-keyframes sampleUpNeck1
 {
 	from {left:52px; top:359px;}
-	to {left:52px; top:292px;}
+	to {left:52px; top:263px;}
 }
 
 /* Standard syntax */
 @keyframes sampleUpNeck1 
 {
 	from {left:52px; top:359px;}
-	to {left:52px; top:292px;}
+	to {left:52px; top:263px;}
 }
 
 @-webkit-keyframes sampleUpNeck2
 {
 	from {left:442px; top:359px;}
-	to {left:442px; top:292px;}
+	to {left:442px; top:263px;}
 }
 
 /* Standard syntax */
 @keyframes sampleUpNeck2 
 {
 	from {left:442px; top:359px;}
-	to {left:442px; top:292px;}
+	to {left:442px; top:263px;}
 }
 
 @-webkit-keyframes waterDown1
