@@ -19,7 +19,7 @@
 Objectives that we accomplish from BOD determination :
 <li>To assess the quality of surface water and waste water</li>
 <li>To establish the amount of organic matter in samples</li>
-<li>To understand the significance of Dissolved Oxygen in sample</li></br>
+<li>To understand the significance of Dissolved Oxygen in sample</li><br>
 
 #### Relevant Indian Standard for Biological Oxygen Demand Test :
 1. IS 3025 (Part 44)-1993: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater, Biochemical Oxygen demand, First Revision.
