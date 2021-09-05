@@ -24,8 +24,8 @@ b. Less water quality<br>
 <b>c. Better water quality</b><br>
 d. Excessive aquatic plant or algae blooms<br>
 
-Q 5.  According to drinking water specification provided by IS 10500 (2012), what should be range of BOD of drinking water<br>
-<b>a. Greater than 2mg/l</b><br>
-b. Greater then 1mg/l<br>
-c. Less than 1mg/l<br>
-d. None of the above<br>
+Q 5. The Biochemical Oxygen Demand (B.O.D.) is computed by<br>
+a. Dissolve Oxygen / Dilution Factor<br>
+b. Dissolve Oxygen + Dilution Factor<br>
+c. Dissolve Oxygen - Dilution Factor<br>
+<b>d.  Dissolve Oxygen * Dilution Factor</b><br>

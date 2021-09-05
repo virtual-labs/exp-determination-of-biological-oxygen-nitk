@@ -35,12 +35,12 @@
 	},
 	"correctAnswer": "c"
 }, {
-	"question": "According to drinking water specification provided by IS 10500 (2012), what should be range of BOD of drinking water",
+	"question": "The Biochemical Oxygen Demand (B.O.D.) is computed by",
 	"answers": {
-		"a": "Greater than 2mg/l",
-		"b": "Greater then 1mg/l",
-		"c": "Less than 1mg/l",
-		"d": "None of the above"
+		"a": "Dissolve Oxygen / Dilution Factor",
+		"b": "Dissolve Oxygen + Dilution Factor",
+		"c": "Dissolve Oxygen - Dilution Factor",
+		"d": " Dissolve Oxygen * Dilution Factor"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }]
