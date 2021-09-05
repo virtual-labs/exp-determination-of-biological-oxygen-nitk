@@ -1,0 +1,46 @@
+[{
+	"question": "What is the colour change during titration with Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> before adding starch?",
+	"answers": {
+		"a": "Dark yellow to green",
+		"b": "Green to pale yellow",
+		"c": "Dark yellow to pale yellow",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What indicator is used during the titration ?",
+	"answers": {
+		"a": "Starch",
+		"b": "Phenolphthalein",
+		"c": "Methyl orange",
+		"d": "Methylene blue"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Select the correct statement.",
+	"answers": {
+		"a": "5 day BOD is the ultimate BOD",
+		"b": "5 day BOD is less than 4 day BOD keeping other conditions same",
+		"c": "5 day BOD is greater than 4 day BOD keeping other conditions same",
+		"d": "BOD does not depend on time"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "High amount of dissolved oxygen in a lake indicate ",
+	"answers": {
+		"a": "High turbidity",
+		"b": "Less water quality",
+		"c": "Better water quality",
+		"d": "Excessive aquatic plant or algae blooms"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "The Biochemical Oxygen Demand (B.O.D.) is computed by",
+	"answers": {
+		"a": "Dissolve Oxygen / Dilution Factor",
+		"b": "Dissolve Oxygen + Dilution Factor",
+		"c": "Dissolve Oxygen - Dilution Factor",
+		"d": " Dissolve Oxygen * Dilution Factor"
+	},
+	"correctAnswer": "d"
+}]
