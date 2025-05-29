@@ -8,7 +8,7 @@
 <br>
 
 <p style="text-indent:50px;">P = Dilution Factor</p>
-<p style="text-indent:50px;">Dilution Factor =    Bottle Volume (300 ml) / Sample Volume</p>
+<p style="text-indent:50px;">Dilution Factor =    Bottle Volume (300ml) / Sample Volume</p>
 
 <p style="text-indent:50px;">Where,</p>
 
@@ -30,15 +30,15 @@
 
 <b>DO measurement:</b></br>
 
-  <ol><li style="text-align:justify;"> Make dilution water by adding 2mL/L of the following reagents in distilled water:</br>
+  <ol><li style="text-align:justify;"> Make dilution water by adding 2ml/l of the following reagents in distilled water:</br>
   a. Phosphate buffer solution</br>
   b. Magnesium sulfate solution</br>
   c. Calcium chloride solution</br>
   d. Ferric chloride solution</br>
   e. Sodium Sulfite solution </li>
-  <li style="text-align:justify;"> For a given sample bottle, add 1 mL of alkali azide and then 1 mL manganous sulfate solution. Shake the bottle well and keep it open for 5 minutes to settle the precipitate. Add 2 mL of concentrated H2SO4 and place the cap on the bottle. Shake the bottle well till all the precipitate is dissolved.</li>
-  <li style="text-align:justify;"> Take 203 mL of sample in a conical flask and titrate with standard sodium thiosulfate solution (0.025N) till the colour changes from dark yellow to light yellow. Then add a few drops of starch indicator and continue to titrate till the colour of the solution becomes either colourless or changes to its original sample colour. Note down the volume of 0.025N sodium thiosulfate consumed.</li></li>
-  <li style="text-align:justify;"> Calculate DO value of the sample. Remember that in a 200 mL sample, 1 mL of sodium thiosulfate of 0.025N equals to 1 mg/L dissolved oxygen: =>Dissolved oxygen (DO) (in mg/L) = mL of sodium thiosulfate (0.025N) consumed.</li></ol></br>
+  <li style="text-align:justify;"> For a given sample bottle, add 1ml of alkali azide and then 1ml manganous sulfate solution. Shake the bottle well and keep it open for 5 minutes to settle the precipitate. Add 2ml of concentrated H2SO4 and place the cap on the bottle. Shake the bottle well till all the precipitate is dissolved.</li>
+  <li style="text-align:justify;"> Take 203ml of sample in a conical flask and titrate with standard sodium thiosulfate solution (0.025N) till the colour changes from dark yellow to light yellow. Then add a few drops of starch indicator and continue to titrate till the colour of the solution becomes either colourless or changes to its original sample colour. Note down the volume of 0.025N sodium thiosulfate consumed.</li></li>
+  <li style="text-align:justify;"> Calculate DO value of the sample. Remember that in a 200ml sample, 1ml of sodium thiosulfate of 0.025N equals to 1 mg/L dissolved oxygen: =>Dissolved oxygen (DO) (in mg/l) = ml of sodium thiosulfate (0.025N) consumed.</li></ol></br>
 
 <p style="text-indent:50px; text-align:justify;">Among the three values of B.O.D. obtained for a sample select that dilution showing the residual dissolved oxygen of at least 1mg/l and a depletion of at least 2mg/l. If two or more dilutions are showing the same condition then select the B.O.D. value obtained by that dilution in which the maximum dissolved oxygen depletion is obtained. Waste water from sewage treatment plants often contains organic materials that are decomposed by microorganisms, which use oxygen in the process. (The amount of oxygen consumed by these organisms in breaking down the waste is known as the Biochemical Oxygen Demand or BOD).</p>
 
@@ -47,5 +47,5 @@ Objectives that we accomplish from BOD determination :
 <li>To establish the amount of organic matter in samples</li>
 <li>To understand the significance of Dissolved Oxygen in sample</li></ul><br>
 
-#### Relevant Indian Standard for Biological Oxygen Demand Test :
+#### Relevant Indian Standard for Biochemical Oxygen Demand Test :
 IS 3025 (Part 44)-1993: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater, Biochemical Oxygen demand, First Revision.
