@@ -1,1 +1,1 @@
-## Determination of Biological Oxygen Demand
+## Determination of Biochemical Oxygen Demand
